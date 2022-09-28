@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\corePackages",
+    "\\src\\kodlamaIoDevs",
+    "\\src\\kodlamaIoDevs\\Domain",
+    "\\src\\kodlamaIoDevs\\Domain\\Entities"
+  ],
+  "SelectedNode": "\\src\\kodlamaIoDevs\\Domain\\Entities\\ProgrammingLanguage.cs",
+  "PreviewInSolutionExplorer": false
+}

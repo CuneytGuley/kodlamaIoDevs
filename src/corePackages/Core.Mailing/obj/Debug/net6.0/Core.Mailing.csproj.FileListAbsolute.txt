@@ -1,0 +1,12 @@
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
+D:\Source\kodlamaIoDevs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
